@@ -1,5 +1,5 @@
-![f2](https://github.com/xznuist/ASM/assets/85595552/2d55473c-5f63-4d37-8345-8b240eb0e3fa)#  [Adaptive Set-level Metric for Few-Shot Image Classification](https://github.com/xznuist/ASM/)
-
+#  [Adaptive Set-level Metric for Few-Shot Image Classification](https://github.com/xznuist/ASM/)
+![f2](https://github.com/xznuist/ASM/assets/85595552/2d55473c-5f63-4d37-8345-8b240eb0e3fa)
 
 
 
